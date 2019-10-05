@@ -23,8 +23,8 @@ body, html {
 
   h1 {
     font: 400 100px 'Great Vibes', Helvetica, sans-serif;
-    color: black;
-    text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+    color: whitesmoke;
+    text-shadow: 4px 4px 8px rgba(0,0,0,0.1); 
     position: relative;
     top: 45px;
     right: 5px;
@@ -32,8 +32,8 @@ body, html {
 
   h2 {
     font: 400 55px 'Great Vibes', Helvetica, sans-serif;
-    color: black;
-    text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+    color: whitesmoke;
+    text-shadow: 4px 4px 8px rgba(0,0,0,0.1); 
     position: relative;
     top: 11px;
     left:25px;
