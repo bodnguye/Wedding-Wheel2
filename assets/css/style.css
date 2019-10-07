@@ -22,26 +22,26 @@ body, html {
   }
 
   h1 {
-    font: 400 115px 'Great Vibes', Helvetica, sans-serif;
+    font: 400 120px 'Great Vibes', Helvetica, sans-serif;
     color: whitesmoke;
     text-shadow: 4px 4px 8px rgba(0,0,0,0.1); 
     position: relative;
-    top: 64px;
+    top: 79px;
     left: 0px;
   }
 
   h2 {
-    font: 400 60px 'Great Vibes', Helvetica, sans-serif;
+    font: 400 65px 'Great Vibes', Helvetica, sans-serif;
     color: whitesmoke;
     text-shadow: 4px 4px 8px rgba(0,0,0,0.1); 
     position: relative;
-    top: 30px;
+    top: 45px;
     left:35px;
   }
 
   #wheel {
       position: relative;
       left: 220px;
-      top: 60px;
+      top: 75px;
       opacity: .6;
   }
